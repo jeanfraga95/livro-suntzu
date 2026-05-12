@@ -75,18 +75,22 @@ ul li{
 }
 .img-l{
     display: flex;
-height: 15rem;
+    margin-top: 1rem;
+height: 7rem;
+margin-right: 1rem;
 
 }
 h2{
     display: flex;
    padding: 1rem;
-   margin-left: 15rem;
+   margin-left: 5rem;
+
 }
 h3{
     display: flex;
-    margin-left: 20rem;
-    margin-bottom: 5rem;
+    margin-left: 10rem;
+    margin-bottom: 2rem;
+
 }
 .sobreli{
     display: flex;
@@ -95,4 +99,120 @@ h3{
     text-align: end;
     justify-items: center;
 
+}
+.books{
+    margin-top: -7rem;
+    margin-left: -50%;
+}
+input{
+    padding: 0.650rem;
+    border: solid black 2px;
+    border-radius: 1rem;
+    
+}
+input:hover{
+    padding: 0.650rem;
+    border: solid black 2px;
+    border-radius: 2rem;
+    background-color: #A80606;
+    color: aliceblue;
+    
+}
+.livro2{
+    height: 15rem;
+    margin-left: 50rem;
+    margin-top: -12rem ;
+
+}
+.conceitos{
+    background-color: #575757;
+    margin-top: 2rem;
+    padding: 10rem;
+    width: 120rem;
+    border-radius: 2rem;
+   }
+.linha-l{
+    width: 25rem;
+    margin-top: -5rem;
+    border: solid 3px white;
+}
+.conceitos-txt{
+    padding: 2rem;
+    margin-top: -3rem;
+    margin-left: 25rem;
+    color: white;
+    border: black;
+    text-shadow: 4px 9px 5px rgb(31, 30, 30);
+}
+.linha-r{
+    width: 25rem;
+    margin-top: -3rem;
+    border: solid 3px white;
+    margin-left: 42rem;
+}
+.hierarquia1{
+    margin-right: 80rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    color: aliceblue;
+}
+.hr1vertical{
+    width: 12rem;
+    border: solid white;
+    transform: rotate(90deg);
+    margin-left: 14rem;
+    margin-top: -5rem;
+}
+.p1{
+    font-size: 1.25rem;
+}
+.p2{
+    color: aliceblue;
+    margin-right: 35rem;
+    margin-top: -4rem;
+    font-size: 1.25rem;
+}
+.hr2vertical{
+    width: 12rem;
+    border: solid white;
+    transform: rotate(90deg);
+    margin-left: 40rem;
+    margin-top: 1rem;
+    margin-bottom: -15rem;
+}
+.p3{
+    color: rgb(247, 248, 248);
+    margin-top: 10rem;
+    margin-left: 17rem;
+    font-size: 1.25rem;
+    text-align: center;
+
+}
+.hr3vertical{
+     width: 12rem;
+    border: solid white;
+    transform: rotate(90deg);
+    margin-left: 65rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+.p2-1{
+    color:white;
+    margin-top: 1rem;
+    margin-right: 32rem;
+}
+.p4{
+    color: aliceblue;
+    margin-left: 62rem;
+    margin-top: -7rem;
+}
+.p4-4{
+    color: aliceblue;
+    margin-left: 65rem;
+    margin-top: 1rem;
+}
+.p33{
+    color: aliceblue;
+    margin-left: 9rem;
+    margin-top: 1rem;
 }
