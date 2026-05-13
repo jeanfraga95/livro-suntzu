@@ -141,7 +141,7 @@ input:hover{
     margin-top: -3rem;
     margin-left: 25rem;
     color: white;
-    border: black;
+    text
     text-shadow: 4px 9px 5px rgb(31, 30, 30);
 }
 .linha-r{
@@ -215,4 +215,33 @@ input:hover{
     color: aliceblue;
     margin-left: 9rem;
     margin-top: 1rem;
+}
+.sobre-livro{
+    background-color: #575757;
+    width: 120rem;
+    margin-top: 2rem;
+    margin-right: 0.850rem;
+    border-radius: 1.25rem;
+    
+}
+.slibro{
+    color: aliceblue;
+    margin-left: 20rem;
+    font-size: 2rem;
+    text-shadow: black 5px 5px 3px;
+}
+.descritivo{
+    margin-right: 70rem;
+    margin-top: 2rem;
+    font-size: 1.25rem;
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+
+}
+.descri2{
+    color: aliceblue;
+    margin-right: 79rem;
+    margin-top: 2rem;
+    font-size: 1.10rem;
+    font-family: 'Courier New', Courier, monospace;
 }
